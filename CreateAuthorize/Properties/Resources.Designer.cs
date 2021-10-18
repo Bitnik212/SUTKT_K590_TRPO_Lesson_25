@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CreateAuthorize.Properties
+namespace CreateAuthorize.View.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.

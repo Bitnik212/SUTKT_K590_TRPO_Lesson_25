@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CreateAuthorize
+namespace CreateAuthorize.View
 {
     using System;
     using System.Collections.Generic;

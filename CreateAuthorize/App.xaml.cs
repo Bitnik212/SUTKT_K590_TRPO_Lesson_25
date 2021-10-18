@@ -1,4 +1,4 @@
-﻿namespace CreateAuthorize
+﻿namespace CreateAuthorize.View
 {
     /// <summary>
     /// Interaction logic for App.xaml
